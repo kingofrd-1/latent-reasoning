@@ -1,0 +1,11 @@
+*.pth
+*.pt
+*.bin
+*.log
+*.safetensors
+finetuned/
+wandb/
+*.pyc
+src/__pycache__
+twohop/
+.specstory
