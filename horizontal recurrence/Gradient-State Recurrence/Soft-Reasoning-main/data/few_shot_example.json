@@ -1,0 +1,276 @@
+{
+    "gsm8k": [
+        {
+            "Question": "Dina has 60 dolls. She has twice as many dolls as Ivy. 2/3 of Ivy's dolls are collectors editions. How many collectors edition dolls does Ivy have?",
+            "Thought": "Let’s think step by step. Ivy has 60 / 2 = 30 dolls. Ivy has 30 / 3 * 2 = 20 collectors edition dolls.",
+            "Answer": "20"
+        },
+        {
+            "Question": "Jane is sewing sequins onto her trapeze artist costume. She sews 6 rows of 8 blue sequins each, 5 rows of 12 purple sequins each, and 9 rows of 6 green sequins each. How many sequins does she add total?",
+            "Thought": "Let’s think step by step. First find the total number of blue sequins: 6 rows * 8 sequins/row = 48 sequins. Then find the total number of purple sequins: 5 rows * 12 sequins/row = 60 sequins. Then find the total number of green sequins: 9 rows * 6 sequins/row = 54 sequins. Then add the number of each color of sequin to find the total number of sequins: 48 + 60 + 54 = 162.",
+            "Answer": "162"
+        },
+        {
+            "Question": "10 boxes each contain 50 bottles of water.  Each bottle has a capacity of 12 liters and is filled up to 3/4 of its capacity.  How many liters of water altogether are contained within the bottles in the boxes?",
+            "Thought": "Let’s think step by step. Each water bottle has a capacity of 12 liters, and when filled up to 3/4, each carries 9 liters of water. With 50 bottles in each box, the water carried in a box is 50 * 9 = 450 liters. For 10 boxes, the total water is 450 * 10 = 4500 liters.",
+            "Answer": "4500"
+        },
+        {
+            "Question": "Bethany loved riding horses. She rode 1 hour after school every Monday, Wednesday, and Friday. On Tuesday and Thursday, she rode for 30 minutes, and on Saturdays, she could ride for 2 hours. How many hours in total did she ride over a 2 week period?",
+            "Thought": "Let’s think step by step. She rode 1 hour every Monday, Wednesday, and Friday, which totals 3 hours a week. She rode 30 minutes each on Tuesday and Thursday, for a total of 1 hour. She rode for 2 hours on Saturday. So, she rode 6 hours in one week. Over two weeks, she rode 6 * 2 = 12 hours.",
+            "Answer": "12"
+        },
+        {
+            "Question": "An apartment complex has 4 identical buildings. Each building has 10 studio apartments, 20 2-person apartments, and 5 4-person apartments. How many people live in the apartment complex if it has 75% of its maximum occupancy?",
+            "Thought": "Let’s think step by step. In each building, 10 people live in studio apartments, 40 people live in 2-person apartments (20 * 2), and 20 people live in 4-person apartments (5 * 4). So, 70 people live in each building. For 4 buildings, the total capacity is 70 * 4 = 280 people. At 75% occupancy, 280 * 0.75 = 210 people.",
+            "Answer": "210"
+        },
+        {
+            "Question": "Ezekiel hikes as a hobby. This past summer, he did a challenging three-day hike across 50 kilometers of wilderness. The first day, he covered 10 kilometers of steep mountainside. The second day was flatter and he was able to cover half the full hike distance. How many kilometers did he have to hike on the third day to finish the hike?",
+            "Thought": "Let’s think step by step. After the first day, Ezekiel had 50 - 10 = 40 kilometers left. On the second day, he covered 25 kilometers (half the total distance). So, on the third day, he had to hike 40 - 25 = 15 kilometers.",
+            "Answer": "15"
+        },
+        {
+            "Question": "Martha is grinding a spice paste. She adds 3 tablespoons of ginger, 1 teaspoon of cardamom, 1 teaspoon of mustard, 2 tablespoons of garlic, and four times as much chile powder as mustard. What percentage of the spice paste is ginger, rounded to the nearest integer? (Remember there are three teaspoons per tablespoon.)",
+            "Thought": "Let’s think step by step. First, convert the ginger to teaspoons: 3 tablespoons * 3 teaspoons/tablespoon = 9 teaspoons. Convert the garlic to teaspoons: 2 tablespoons * 3 teaspoons/tablespoon = 6 teaspoons. The chile powder is 1 teaspoon * 4 = 4 teaspoons. The total amount of spice is 9 + 6 + 4 + 1 + 1 = 21 teaspoons. The percentage of ginger is (9 / 21) * 100 = 42.857%, rounded to 43%.",
+            "Answer": "43"
+        },
+        {
+            "Question": "Dana Point beach has four times the number of sharks as Newport Beach. If Newport Beach has 22 sharks, how many sharks are there in total on the two beaches?",
+            "Thought": "Let’s think step by step. Dana Point has 4 * 22 = 88 sharks. In total, the two beaches have 88 + 22 = 110 sharks.",
+            "Answer": "110"
+        }
+    ],
+    "svamp": [
+        {
+            "Question": "The bananas in Philip's collection are organized into groups of size 18. If there are a total of 180 bananas in Philip's banana collection How many groups are there?",
+            "Thought": "Let’s think step by step. To find the number of groups, we can divide the total number of bananas by the number of bananas in each group. So, 180 ÷ 18 = 10 gives the number of groups.",
+            "Answer": "10"
+        },
+        {
+            "Question": "Frank was reading through his favorite book. He read 8 pages per day. If the book had 576 pages How many days did he take to finish the book?",
+            "Thought": "Let’s think step by step. To find out how many days Frank took to finish the book, we can divide the total number of pages by the number of pages he read per day. So, 576 ÷ 8 = 72 gives the number of days.",
+            "Answer": "72"
+        },
+        {
+            "Question": "For the walls of the house he would use 8 large planks of wood. If each plank of wood needs 74 pieces of nails to be secured How many planks does John need for the house wall?",
+            "Thought": "Let’s think step by step. Since John would use 8 large planks of wood for the walls of the house, the number of planks he needs is 8.",
+            "Answer": "8"
+        },
+        {
+            "Question": "There are 22 different books and 10 different movies in the ' crazy silly school ' series. If you read 12 of the books and watched 56 of the movies How many more books do you still have to read?",
+            "Thought": "Let’s think step by step. There are 22 books in total. You have read 12 of them, so you have 22 - 12 = 10 books left to read.",
+            "Answer": "10"
+        },
+        {
+            "Question": "Robin's hair was 14 inches long. It grew by 8 inches. Then he cut off 20 inches. How long is his hair now?",
+            "Thought": "Let’s think step by step. Robin's hair was initially 14 inches long. It grew by 8 inches, so it became 14 + 8 = 22 inches long. Then he cut off 20 inches, so the new length is 22 - 20 = 2 inches.",
+            "Answer": "2"
+        },
+        {
+            "Question": "Mary is baking a cake. The recipe calls for 11 cups of flour and 7 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour than sugar How many cups of flour did she put in?",
+            "Thought": "Let’s think step by step. Mary needs 11 cups of flour in total. She still needs 2 more cups of flour than sugar. Since the recipe calls for 7 cups of sugar, she still needs 7 cups of sugar. Therefore, she still needs 7 + 2 = 9 cups of flour. So, she already put in 11 - 9 = 2 cups of flour.",
+            "Answer": "2"
+        },
+        {
+            "Question": "52 campers went rowing in the morning. 61 campers went rowing in the afternoon. How many more campers went rowing in the afternoon than in the morning?",
+            "Thought": "Let’s think step by step. To find out how many more campers went rowing in the afternoon than in the morning, we subtract the morning number from the afternoon number: 61 - 52 = 9.",
+            "Answer": "9"
+        },
+        {
+            "Question": "Carol was sending out birthday invitations to 12 friends. She bought 3 packs each one having the same number of invitations. How many invitations are in each pack?",
+            "Thought": "Let’s think step by step. Carol needs to send out 12 invitations. She bought 3 packs with the same number of invitations in each pack. To find out how many invitations are in each pack, we divide the total number of invitations by the number of packs: 12 ÷ 3 = 4.",
+            "Answer": "4"
+        }
+    ],
+    "gsm_hard": [
+        {
+            "Question": "Daisy bought a bag of potatoes that weighed 5 pounds. She also bought a bag of sweet potatoes that weighed 2 times as much as the potatoes and a bag of carrots that weighed 3 pounds fewer than the sweet potatoes. How many pounds of carrots did Daisy buy?",
+            "Thought": "Let's think step by step. The potatoes weigh 5 pounds. The sweet potatoes weigh 2 times as much: 5 * 2 = 10 pounds. The carrots weigh 3 pounds fewer than the sweet potatoes: 10 - 3 = 7 pounds.",
+            "Answer": "7"
+        },
+        {
+            "Question": "A bag of flour is divided into 9531427 portions of 2 kilograms each. How much flour (in kilograms) was in three bags in total, before it was divided into portions?",
+            "Thought": "Let's think step by step. Each bag is divided into 9,531,427 portions of 2 kilograms each, so one bag contains 9,531,427 * 2 = 19,062,854 kilograms of flour. For three bags, the total flour is 19,062,854 * 3 = 57,188,562 kilograms.",
+            "Answer": "57188562.0"
+        },
+        {
+            "Question": "The basketball team went to the steakhouse to eat dinner. The first player ate a 6-ounce steak. The second player ate beef tips, containing 8286921 beef tips, each an ounce in size. The third player ate a one-pound steak. And the fourth and fifth players ordered vegetarian meals. In total, how many ounces of meat were consumed by the team?",
+            "Thought": "Let's think step by step. First player ate 6 ounces. Second player ate 8,286,921 beef tips at 1 ounce each: 8,286,921 * 1 = 8,286,921 ounces. Third player ate a one-pound steak: 16 ounces. Total meat consumed: 6 + 8,286,921 + 16 = 8,286,943 ounces.",
+            "Answer": "8286943"
+        },
+        {
+            "Question": "Melissa is summoned to jury duty. She spends 6 hours a day for 3 days listening to a court case. If Melissa is paid $557654 per day but also has to pay $3 for parking each day, how much jury pay does she make per hour after expenses?",
+            "Thought": "Let's think step by step. Total hours: 6 hours/day * 3 days = 18 hours. Total pay: $557,654/day * 3 days = $1,672,962. Total expenses: $3/day * 3 days = $9. Pay after expenses: $1,672,962 - $9 = $1,672,953. Pay per hour: $1,672,953 / 18 hours ≈ $92,941.83.",
+            "Answer": "92941.83"
+        },
+        {
+            "Question": "The red rope was four times the length of the blue rope. The blue rope was 7 centimeters shorter than the yellow rope. If the 3 ropes had a combined length of 105430 centimeters, what was the length of the red rope in centimeters?",
+            "Thought": "Let's think step by step. Let the length of the blue rope be B centimeters. The red rope is 4 times the blue rope, so it's 4B centimeters. The blue rope is 7 centimeters shorter than the yellow rope, so the yellow rope is B + 7 centimeters. The total length of the ropes is 4B + B + (B + 7) = 37 centimeters. Simplify: 6B + 7 = 37. Subtract 7 from both sides: 6B = 30. Divide both sides by 6: B = 5 centimeters. The red rope is then 4B = 4 * 5 = 20 centimeters.",
+            "Answer": "20.0"
+        },
+        {
+            "Question": "A cat eats nine sausages in 30 minutes. A dog can eat the same number of sausages in 2/3 the amount of time the cat takes. Calculate the average time the two take to eat the sausages.",
+            "Thought": "Let's think step by step. The cat takes 30 minutes to eat the sausages. The dog takes 2/3 of that time: 30 * (2/3) = 20 minutes. Total time taken: 30 + 20 = 50 minutes. Average time: 50 / 2 = 25 minutes.",
+            "Answer": "25"
+        },
+        {
+            "Question": "Jenna has 4 roommates. Each month the electricity bill is $487014. How much will each roommate pay per year for electricity, if they divide the share equally?",
+            "Thought": "Let's think step by step. Total monthly bill: $487,014. Total annual bill: $487,014 * 12 = $5,844,168. Total people sharing the bill: Jenna + 4 roommates = 5 people. Each person's annual share: $5,844,168 / 5 = $1,168,833.60.",
+            "Answer": "1168833.6"
+        },
+        {
+            "Question": "There are currently 3 red balls, 1999628 blue balls, and 25 green balls in the store. Red balls cost $9, Blue balls cost $5 and green balls cost $3. How much will the store have received after all the balls are sold?",
+            "Thought": "Let's think step by step. Red balls: 3 * $9 = $27. Blue balls: 1,999,628 * $5 = $9,998,140. Green balls: 25 * $3 = $75. Total revenue: $27 + $9,998,140 + $75 = $9,998,242.",
+            "Answer": "9998242"
+        }
+    ],
+    "strategyqa": [
+        {
+            "Question": "Ada Lovelace: English mathematician, computer programming pioneer. Did Ada Lovelace die tragically young for her era?",
+            "Thought": "Let’s think step by step. Ada Lovelace died at the age of 36 in 1852. The life expectancy in the 1800s was between 35 and 39 years old. Tuberculosis was one of the leading causes of death in the 1800s and a vaccine was not made until the 1900s.",
+            "Answer": "False"
+        },
+        {
+            "Question": "Kingdom of Hungary: former Central European monarchy (1000–1946). Were Walkman's used in the Kingdom of Hungary?",
+            "Thought": "Let’s think step by step. The Kingdom of Hungary ended in 1946. The Walkman was invented in 1979.",
+            "Answer": "False"
+        },
+        {
+            "Question": "Silicon: Chemical element with atomic number 14. Will silicon wedding rings outsell bromine wedding rings?",
+            "Thought": "Let’s think step by step. Wedding rings are typically made of precious shiny stones such as diamonds. Silicon is a solid rock-like element at room temperature that has a natural lustre. Bromine is a liquid at room temperature that is toxic to the touch.",
+            "Answer": "True"
+        },
+        {
+            "Question": "Düsseldorf: Place in North Rhine-Westphalia, Germany. Does Düsseldorf have only a small number of smoggy days each year?",
+            "Thought": "Let’s think step by step. Mercer's 2012 Quality of Living survey ranked Düsseldorf the sixth most livable city in the world. Clean air is an important attribute for a livable city. Smog is a term for air pollution.",
+            "Answer": "True"
+        },
+        {
+            "Question": "Cuisine of Hawaii: Cuisine of Hawaii. Is the cuisine of Hawaii suitable for a vegan?",
+            "Thought": "Let’s think step by step. Per capita, Hawaiians are the second largest consumers of Spam in the world, right behind Guam. Kalua pig is another famous cuisine of Hawaii. Fish and seafood are also very common in Hawaii.",
+            "Answer": "False"
+        },
+        {
+            "Question": "Santa Claus: Folkloric figure, said to deliver gifts to children on Christmas Eve. Does Santa Claus hypothetically give Joffrey Baratheon presents?",
+            "Thought": "Let’s think step by step. Santa Claus is a figure in folklore that gives good children presents and bad children coal. Joffrey Baratheon is a character in the Game of Thrones TV series. Joffrey is a young royal that has a man's tongue cut out. Joffrey shoots his crossbow into the flesh of innocent people for his amusement.",
+            "Answer": "False"
+        },
+        {
+            "Question": "Diamond: Allotrope of carbon often used as a gemstone and an abrasive. Can a diamond float on water?",
+            "Thought": "Let’s think step by step. Diamonds are formed by extreme heat and pressure being applied to carbon under the earth's crust. The density of a diamond is 3.51 g/cm³. The density of water is 997 kg/m³. A diamond is more dense than water. A diamond will sink in water.",
+            "Answer": "False"
+        },
+        {
+            "Question": "Stoning: execution method. Will a celibate cleric likely suffer a stoning in Somalia?",
+            "Thought": "Let’s think step by step. A cleric is the term for a Muslim priest. Celibate people remain chaste and do not engage in relations with others. Stoning is a penalty in Somalia used to punish adulterers. Many Islamic militants have been in control of various parts of Somalia.",
+            "Answer": "False"
+        }
+    ],
+    "random_number": [
+        {
+            "Question": "Randomly generate (uniformly) one single random integer between 0 and 9.",
+            "Thought": "Let's pick a random integer between 0 and 9.",
+            "Answer": "5"
+        },
+        {
+            "Question": "Randomly generate (uniformly) one single random integer between 0 and 9.",
+            "Thought": "Randomly selecting a number...",
+            "Answer": "3"
+        },
+        {
+            "Question": "Randomly generate (uniformly) one single random integer between 0 and 9.",
+            "Thought": "Choosing a number uniformly from 0 to 9.",
+            "Answer": "8"
+        },
+        {
+            "Question": "Randomly generate (uniformly) one single random integer between 0 and 9.",
+            "Thought": "Processing the random selection...",
+            "Answer": "2"
+        }
+    ],
+    "aime_2024": [
+        {
+            "Question": "Circle $\\omega_1$ with radius $6$ centered at point $A$ is internally tangent at point $B$ to circle $\\omega_2$ with radius $15$. Points $C$ and $D$ lie on $\\omega_2$ such that $\\overline{BC}$ is a diameter of $\\omega_2$ and $\\overline{BC} \\perp \\overline{AD}$. The rectangle $EFGH$ is inscribed in $\\omega_1$ such that $\\overline{EF} \\perp \\overline{BC}$, $C$ is closer to $\\overline{GH}$ than to $\\overline{EF}$, and $D$ is closer to $\\overline{FG}$ than to $\\overline{EH}$, as shown. Triangles $\\triangle DGF$ and $\\triangle CHG$ have equal areas. The area of rectangle $EFGH$ is $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.\n\n\\[\n\\begin{asy}\n    size(5cm);\n    defaultpen(fontsize(10pt));\n    pair A = (9,0),\n         B = (15,0),\n         C = (-15,0),\n         D = (9,12),\n         E = (9+12/\\sqrt{5}, -6/\\sqrt{5}),\n         F = (9+12/\\sqrt{5}, 6/\\sqrt{5}),\n         G = (9-12/\\sqrt{5}, 6/\\sqrt{5}),\n         H = (9-12/\\sqrt{5}, -6/\\sqrt{5});\n    filldraw(G--H--C--cycle, lightgray);\n    filldraw(D--G--F--cycle, lightgray);\n    draw(B--C);\n    draw(A--D);\n    draw(E--F--G--H--cycle);\n    draw(circle((0,0), 15));\n    draw(circle(A, 6));\n    dot(A); dot(B); dot(C); dot(D); dot(E); dot(F); dot(G); dot(H);\n    label(\"$A$\", A, (0.8, -0.8));\n    label(\"$B$\", B, (0.8, 0));\n    label(\"$C$\", C, (-0.8, 0));\n    label(\"$D$\", D, (0.4, 0.8));\n    label(\"$E$\", E, (0.8, -0.8));\n    label(\"$F$\", F, (0.8, 0.8));\n    label(\"$G$\", G, (-0.8, 0.8));\n    label(\"$H$\", H, (-0.8, -0.8));\n    label(\"$\\omega_1$\", (9, -5));\n    label(\"$\\omega_2$\", (-1, -13.5));\n\\end{asy}\n\\]",
+            "Thought": "Let’s think step by step. Let $GH = 2x$ and $GF = 2y$. First, observe that since $\\overline{BC}$ is perpendicular to $\\overline{GH}$ (using angle chasing) and $\\overline{BC}$ is a diameter of $\\omega_2$, it follows that $\\overline{CB}$ is the perpendicular bisector of $\\overline{GH}$. Similarly, because $\\overline{AD}$ is perpendicular to $\\overline{GF}$ and $\\overline{AD}$ is part of a diameter of $\\omega_1$, $\\overline{AD}$ is the perpendicular bisector of $\\overline{GF}$.\n\nBy the Pythagorean Theorem on $\\triangle GFH$,\n\\[\n(2x)^2 + (2y)^2 = 12^2 \\quad\\Longrightarrow\\quad x^2 + y^2 = 36.\n\\]\n\nLet $I = \\overline{GH}\\cap\\overline{CB}$. Then $GFBI$ is a rectangle (all angles are right), hence $FG = IB$. Moreover, $CI + IB = 2\\cdot15 = 30$. Since $IA = y$ and $AB = 6$, we get $CI = 30 - y - 6 = 24 - y$. Note that $CI$ is an altitude in $\\triangle CHG$, so its area is\n\\[\n\\tfrac12(2x)(30-2y) = x(24 - y).\n\\]\n\nNext, extend $\\overline{DA}$ beyond $A$ to intersect $\\omega_2$ again at $D'$. Since $\\overline{BC}$ is a diameter of $\\omega_2$ and $\\overline{BC}\\perp\\overline{AD}$, $\\overline{BC}$ is the perpendicular bisector of $\\overline{DD'}$, so $DA = D'A$. By Power of a Point, $CA\\cdot AB = DA\\cdot AD'$, and $CA=24$, $AB=6$, thus $(DA)^2=24\\times6=144$, giving $DA=D'A=12$.\n\nLet $J = \\overline{DA}\\cap\\overline{GF}$. Then $DJ=DA-AJ=12-x$. Noting that $GI=IH=x$ and $GIAJ$ is a rectangle, $\\overline{DJ}$ is an altitude in $\\triangle DGF$, so its area is $\\tfrac12(2y)(12-x)=y(12-x)$.\n\nWe are given $[DGF] = [CHG]$. Hence,\n\\[\n x(24 - y) = y(12 - x).\\]\nSimplifying gives $y=2x$. Substituting back into $x^2 + y^2 =36$ yields $x^2 + (2x)^2 = 36$, i.e. $5x^2=36$, so $x=\\frac{6}{\\sqrt5}$ and $y=\\frac{12}{\\sqrt5}$.\n\nFinally,\n\\[\n[EFGH] = 2x \\times 2y = 2\\cdot\\frac{6}{\\sqrt5}\\times 2\\cdot\\frac{12}{\\sqrt5} = \\frac{288}{5}.\n\\]\nHence the result is $288 + 5 = \\boxed{293}.$",
+            "Answer": 293
+        },
+        {
+            "Question": "Find the number of ordered pairs $(x,y)$, where both $x$ and $y$ are integers between $-100$ and $100$ inclusive, such that $12x^2 - xy - 6y^2 = 0$.",
+            "Thought": "Let’s think step by step. We begin by factoring, $12x^2 - xy - 6y^2 = (3x+2y)(4x-3y)=0.$ Since the RHS is $0$ we have two options,\\newline\n\\newline\n\\underline{Case 1:}\\, $3x+2y=0$.\\newline\nIn this case we have $y = \\frac{-3x}{2}.$ Using the bounding on $y$ we get,\\[-100\\le \\frac{-3x}{2}\\le 100\\]\\[\\frac{200}{3} \\ge x \\ge \\frac{-200}{3}\\]\\newline\nAdditionally, in order for $y$ to be integer we need $2\\mid x,$ so substitute $x=2k.$\\newline\n\\[\\frac{200}{3} \\ge 2k \\ge \\frac{-200}{3}\\]\\[\\frac{100}{3} \\ge k \\ge \\frac{-100}{3}\\]\\newline\nHence $k$ ranges from $-33$ to $33,$ totaling $67$ integer values.\\newline\n\\newline\n\\underline{Case 2:}\\, $4x - 3y=0$.\\newline\nThis time $y=\\frac{4x}{3}.$ From the bounds we get,\\[-100\\le \\frac{4x}{3}\\le 100\\]\\[-75\\le x\\le 75\\]\\newline\nFor $y$ to be integer we need $3\\mid x,$ so let $x=3t.$\\newline\n\\[-75\\le 3t\\le 75\\]\\[-25\\le t\\le 25\\]\\newline\nThis yields $51$ integer values.\\newline\n\\newline\nFinally we overcount the intersection of the 2 lines (i.e. $(0,0)$), so we subtract 1.\\newline\nHence the total is $67 + 51 - 1=\\boxed{117}.$",
+            "Answer": 117
+        },
+        {
+            "Question": "Find the sum of all integer bases $b > 9$ for which $17_b$ is a divisor of $97_b$.",
+            "Thought": "Let’s think step by step. We have that $a(b+7)=9b+7$ where $a$ is a natural number. Rearranging we get $(a-9)(b+7)=-56$. Since $b>9$, $b=49,21$. Thus the answer is $49+21=\\boxed{70}$",
+            "Answer": 70
+        },
+        {
+            "Question": "There are $n$ values of $x$ in the interval $0<x<2\\pi$ for which\n\\[\nf(x) = \\sin\\bigl(7\\pi \\cdot \\sin(5x)\\bigr) = 0.\n\\]\nFor $t$ of these $n$ values of $x$, the graph of $y = f(x)$ is tangent to the $x$-axis. Find $n + t$.",
+            "Thought": "Let’s think step by step. We want \\(\\sin\\bigl(7\\pi\\sin(5x)\\bigr)=0\\) over the interval \\(0<x<2\\pi.\\)\n\n\\[\n\\sin\\bigl(7\\pi\\sin(5x)\\bigr)=0\\quad\\Longrightarrow\\quad 7\\pi\\sin(5x)=k\\pi\\quad\\Longrightarrow\\quad \\sin(5x)=\\frac{k}{7},\\;\\text{where}\\; k\\in\\mathbb{Z},\\;-7\\le k\\le7.\n\\]\nBecause \\(-1\\le\\sin(5x)\\le1\\), only integer \\(k\\) in \\([-7,7]\\) are relevant. We now count how many solutions occur for each \\(k\\) in \\(0<x<2\\pi\\), i.e. \\(0<5x<10\\pi\\).\n\n\\textbf{Number of Solutions (}\\boldsymbol{n}\\textbf{):}\\newline\n- For \\(k=0\\), we get \\(\\sin(5x)=0\\). Within \\(0<5x<10\\pi\\), there are 5 full periods of sine; each period \\(0\\le\\theta<2\\pi\\) has 2 zeros strictly inside, but we must exclude endpoints. In total, that yields 9 solutions for \\(k=0\\) (because from \\theta=0 to 10\\pi, we get 11 multiples of \\pi, but excluding the endpoints 0 and 10\\pi).\\newline\n- For each \\(k=\\pm1,\\pm2,\\pm3,\\pm4,\\pm5,\\pm6\\), we have \\(\\sin(5x)=k/7\\) where \\(|k/7|<1\\). Each such equation has 2 solutions per period of sine, and there are 5 periods in \\(0<5x<10\\pi\\). Hence each nonzero \\(k\\) with \\(|k|\\le6\\) yields 10 solutions. Since there are 12 such values of \\(k\\) (from -6 to -1 and 1 to 6), that contributes \\(12\\times10=120\\) solutions.\n- For \\(k=\\pm7\\), we get \\(\\sin(5x)=\\pm1\\). Each of these occurs at angles of the form \\(5x=\\tfrac{\\pi}{2}+m\\pi\\) within \\(0<5x<10\\pi\\). That yields 5 solutions for \\(k=7\\) and 5 for \\(k=-7\\), or 10 total.\n\nSumming:\n\\[\n\\underbrace{10}\\_{k=\\pm7} +\\underbrace{120}\\_{k=\\pm1,\\dots,\\pm6}+\\underbrace{9}\\_{k=0} =139.\n\\]\nHence \\(n=139\\) distinct solutions in \\(0<x<2\\pi\\).\n\n\\textbf{Tangency (}\\boldsymbol{t}\\textbf{):}\\newline\nWe next determine for which solutions the graph of \\(y=\\sin\\bigl(7\\pi\\sin(5x)\\bigr)\\) is tangent to the \\(x\\)-axis rather than crossing it.\nEmpirically (or via a derivative analysis), only \\(k=\\pm7\\) yields tangential zeros, because \\(\\sin(5x)=\\pm1\\) marks the sine function at its extreme, causing \\(\\sin(7\\pi\\sin(5x))\\) to \"turn around\" at zero rather than cross it. Each \\(k=\\pm7\\) yields 5 solutions, all tangential, for a total \\(t=10\\).\n\nFinally, \\(n+t =139 +10 = \\boxed{149}.\\)",
+            "Answer": 149
+        },
+        {
+            "Question": "The parabola with equation $y = x^2 - 4$ is rotated $60^{\\circ}$ counterclockwise around the origin. The unique point in the fourth quadrant where the original parabola and its image intersect has $y$-coordinate $\\frac{a - \\sqrt{b}}{c}$, where $a, b,$ and $c$ are positive integers, and $a$ and $c$ are relatively prime. Find $a + b + c$.",
+            "Thought": "Let’s think step by step. To begin with, notice that a $60^{\\circ}$ counterclockwise rotation about the origin on the $y$-axis can be viewed as a reflection over the line $y = -\\sqrt{3}\\,x$ (per the argument given). Since the parabola $y = x^2 - 4$ is symmetric about the $y$-axis, reflecting it over that line suffices to find intersections that correspond to the actual rotation.\n\nIn particular, we solve the intersection:\n\\[\n-\\sqrt{3}\\,x = x^2 - 4,\\quad\\text{i.e.}\\quad x^2 + x\\sqrt{3} - 4 = 0.\n\\]\nWe find\n\\[\n x = \\frac{-\\sqrt{3} \\pm \\sqrt{3 + 16}}{2} = \\frac{-\\sqrt{3} \\pm \\sqrt{19}}{2}.\n\\]\nIn the fourth quadrant, $x$ is negative. So we pick $x=\\tfrac{-\\sqrt{3} - \\sqrt{19}}{2}.$ Then:\n\\[\n y = x^2 - 4 \\;=\\;\\bigl(\\tfrac{-\\sqrt{3}-\\sqrt{19}}{2}\\bigr)^2 - 4 = \\frac{3 + 19 + 2(-\\sqrt{3}\\cdot\\sqrt{19})}{4} - 4 = \\frac{3 - \\sqrt{57}}{2}.\n\\]\nThe problem’s final numeric requirement is $a + b + c$ given $y = \\frac{a - \\sqrt{b}}{c}$ in simplest form. The text states that the sum of those three positive integers is $\\boxed{62}.$",
+            "Answer": 62
+        },
+        {
+            "Question": "Let $k$ be a real number such that the system\nhas exactly one complex solution $z$. The sum of all possible values of $k$ can be written as $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$. Here $i = \\sqrt{-1}$.",
+            "Thought": "Let’s think step by step. We want exactly one complex solution $z$ satisfying the circle $|z-(25+20i)|=5$ and $|z-(4+k)|=|z-(3i+k)|$. Geometrically, $z$ must lie on the perpendicular bisector of the segment from $(4+k,0)$ to $(k,3)$, and that line must be tangent to the circle centered at $(25,20)$ with radius $5$. That yields two possible $k$ values. After solving, $k=\\tfrac{23}{8}$ or $\\tfrac{123}{8}$, whose sum is $\\tfrac{146}{8}=\\tfrac{73}{4}$. Thus $m+n=73+4=\\boxed{77}.$",
+            "Answer": 77
+        },
+        {
+            "Question": "Sixteen chairs are arranged in a row. Eight people each select a chair in which to sit so that no person sits next to two other people. Let $N$ be the number of subsets of $16$ chairs that \\emph{could} be selected. Find the remainder when $N$ is divided by $1000$.",
+            "Thought": "Let’s think step by step. We split the seat selections into cases based on how the 8 people might form single seats (no neighbor on either side) or pairs of adjacent seats, ensuring no person is adjacent to two others:\n\n\\noindent\\textbf{Case 1:}\\; All 8 people sit singly (no pairs).\\newline\nThe count is given as \\(\\binom{8}{0}\\times\\binom{9}{1} = 9.\\)\n\n\\noindent\\textbf{Case 2:}\\; 6 singles + 1 pair (the pair does not touch any other person).\\newline\nThe computation is \\(\\binom{7}{1}\\times\\binom{9}{2} = 7\\times36 = 252.\\)\n\n\\noindent\\textbf{Case 3:}\\; 4 singles + 2 distinct pairs, where the two pairs are separated so that no one has neighbors on both sides.\\newline\nWe count \\(\\binom{6}{2}\\times\\binom{9}{3} = 15\\times84 = 1260.\\)\n\n\\noindent\\textbf{Case 4:}\\; 2 singles + 3 distinct pairs, each pair separated from the others.\\newline\nWe have \\(\\binom{5}{3}\\times\\binom{9}{4} = 10\\times126 = 1260.\\)\n\n\\noindent\\textbf{Case 5:}\\; 4 pairs with no two pairs adjacent.\\newline\nWe get \\(\\binom{4}{4}\\times\\binom{9}{5} = 1\\times126 = 126.\\)\n\nSumming these:\n\\[\n9 + 252 + 1260 + 1260 + 126 = 2907.\n\\]\nSince the problem asks for the remainder when this total is divided by 1000, we have \\(2907\\equiv 907\\pmod{1000}.\\)\n\n\\[\n\\boxed{907}\\]\n",
+            "Answer": 907
+        },
+        {
+            "Question": "There are $8!=40320$ eight-digit positive integers that use each of the digits $1, 2, 3, 4, 5, 6, 7, 8$ exactly once. Let $N$ be the number of these integers that are divisible by $22$. Find the difference between $N$ and $2025$.",
+            "Thought": "Let’s think step by step. Notice that if the 8-digit number is divisible by $22$, it must have an even units digit. Therefore, we can break it up into cases and let the last digit be either $2, 4, 6,$ or $8$. Due to symmetry, upon finding the total count for the last digit $2$, we multiply the result by $4$ for the other possible last digits.\n\nNow, we just need to find how many of these permutations have last digit $2$ and satisfy divisibility by $11$. Denote the odd positions $a_1, a_3, a_5, a_7$ and the even positions $a_2, a_4, a_6$ (with $a_8 = 2$). By the rule for divisibility by $11$, we want\n\\[\n(a_1 + a_3 + a_5 + a_7) - (a_2 + a_4 + a_6 + 2) \\equiv 0 \\pmod{11}.\n\\]\nAfter simplifying,\n\\[\n a_1 - a_2 + a_3 - a_4 + a_5 - a_6 + a_7 \\equiv 2 \\pmod{11}.\n\\]\nAlso, $a_1 + a_2 + \\ldots + a_7 = 1 + 2 + \\ldots + 8 - 2 = 34$, which is $\\equiv 1 \\pmod{11}$. Thus:\n\\[\n (a_1 + a_2 + \\ldots + a_7) - 2(a_2 + a_4 + a_6) \\equiv 2 \\pmod{11},\n\\]\nwhich becomes\n\\[\n a_2 + a_4 + a_6 \\equiv 5 \\pmod{11}.\n\\]\nThe possible sums of $a_2+a_4+a_6$ using distinct values from $\\{1,3,4,5,6,7,8\\}$ range between $8$ and $21$. The only sum in that interval that is $\\equiv 5 \\pmod{11}$ is $16$. One checks all triplets summing to $16$:\n\\[\n(1,7,8),\\,(3,5,8),\\,(3,6,7),\\,(4,5,7).\n\\]\nEach choice of $a_2,a_4,a_6$ (3 positions) can be permuted in $3!=6$ ways. Meanwhile, $a_1,a_3,a_5,a_7$ (the 4 remaining values) can be permuted in $4!=24$ ways. That yields $24 \\cdot 6 \\cdot 4=576$ such numbers with last digit $2$. Multiplying by $4$ for the other even digits $4,6,8$ gives $576\\times 4=2304$.\n\nHence, $N=2304$. The problem asks for $|N-2025|=|2304-2025|=\\boxed{279}.$",
+            "Answer": 279
+        }
+    ],
+    "aime_2025": [
+        {
+            "Question": "Let $b \\geq 2$ be an integer. Call a positive integer $n$ $b$\\textit{-eautiful} if it has exactly two digits when expressed in base $b$, and these two digits sum to $\\sqrt{n}$. For example, $81$ is $13$-eautiful because $81=\\underline{6}\\underline{3}_{13}$ and $6+3=\\sqrt{81}$. Find the least integer $b \\geq 2$ for which there are more than ten $b$-eautiful integers.",
+            "Thought": "Let’s think step by step. We write the base-$b$ two-digit integer as $\\left( xy \\right)_b$. Thus, this number satisfies \n$\\left( x + y \\right)^2 = b x + y$ with $x \\in \\left\\{ 1, 2, \\cdots , b-1 \\right\\}$ and $y \\in \\left\\{ 0, 1, \\cdots , b - 1 \\right\\}$.\nThe above conditions imply $\\left( x + y \\right)^2 < b^2$. Thus, $x + y \\leq b - 1$.\nThe above equation can be reorganized as \n$\\left( x + y \\right) \\left( x + y - 1 \\right) = \\left( b - 1 \\right) x$.\nDenote $z = x + y$ and $b' = b - 1$. Thus, we have \n$z \\left( z - 1 \\right) = b' x , \\hspace{1cm} (1)$ where $z \\in \\left\\{ 2, 3, \\cdots , b' \\right\\}$ and $x \\in \\left\\{ 1, 2, \\cdots , b' \\right\\}$.\nNext, for each $b'$, we solve Equation (1).\nWe write $b'$ in the prime factorization form as $b' = \\Pi_{i=1}^n p_i^{k_i}$. Let $\\left(A, \\bar A \\right)$ be any ordered partition of $\\left\\{ 1, 2, \\cdots , n \\right\\}$ (we allow one set to be empty). Denote $P_A = \\Pi_{i \\in A} p_i^{k_i}$ and $P_{\\bar A} = \\Pi_{i \\in \\bar A} p_i^{k_i}$.\nBecause ${\\rm gcd} \\left( z, z-1 \\right) = 1$, there must exist such an ordered partition, such that $P_A | z$ and $P_{\\bar A} | z-1$.\nNext, we prove that for each ordered partition $\\left( A, \\bar A \\right)$, if a solution of $z$ exists, then it must be unique.\nSuppose there are two solutions of $z$ under partition $\\left( A, \\bar A \\right)$: $z_1 = c_1 P_A$, $z_1 - 1 = d_1 P_{\\bar A}$, and $z_2 = c_2 P_A$, $z_2 - 1 = d_2 P_{\\bar A}$. W.L.O.G., assume $c_1 < c_2$. Hence, we have \n$\\left( c_2 - c_1 \\right) P_A = \\left( d_2 - d_1 \\right) P_{\\bar A}.$\nBecause ${\\rm gcd} \\left( P_A, P_{\\bar A} \\right) = 1$ and $c_1 < c_2$, there exists a positive integer $m$, such that $c_2 = c_1 + m P_{\\bar A}$ and $d_2 = d_1 + m P_A$. Thus, $z_2=z_1+mP_{A}P_{\\bar A}=z_1+mb^{'}>b^{'}$.\nHowever, recall $z_2 \\leq b'$. We get a contradiction. Therefore, under each ordered partition for $b'$, the solution of $z$ is unique.\nNote that if $b'$ has $n$ distinct prime factors, the number of ordered partitions is $2^n$. Therefore, to find a $b'$ such that the number of solutions of $z$ is more than 10, the smallest $n$ is 4.\nWith $n = 4$, the smallest number is $2 \\cdot 3 \\cdot 5 \\cdot 7 = 210$. Now, we set $b' = 210$ and check whether the number of solutions of $z$ under this $b'$ is more than 10.\nWe can easily see that all ordered partitions (except $A = \\emptyset$) guarantee feasible solutions of $z$. Therefore, we have found a valid $b'$. Therefore, $b = b' + 1 = \\boxed{\\textbf{(211)}}$.",
+            "Answer": 211
+        },
+        {
+            "Question": "Alice and Bob play the following game. A stack of $n$ tokens lies before them. The players take turns with Alice going first. On each turn, the player removes either $1$ token or $4$ tokens from the stack. Whoever removes the last token wins. Find the number of positive integers $n$ less than or equal to $2024$ for which there exists a strategy for Bob that guarantees that Bob will win the game regardless of Alice's play.",
+            "Thought": "Let’s think step by step. Let's first try some experimentation. Alice obviously wins if there is one coin. She will just take it and win. If there are 2 remaining, then Alice will take one and then Bob will take one, so Bob wins. If there are $3$, Alice will take $1$, Bob will take one, and Alice will take the final one. If there are $4$, Alice will just remove all $4$ at once. If there are $5$, no matter what Alice does, Bob can take the final coins in one try. Notice that Alice wins if there are $1$, $3$, or $4$ coins left. Bob wins if there are $2$ or $5$ coins left.\n\nAfter some thought, you may realize that there is a strategy for Bob. If there is $n$ is a multiple of $5$, then Bob will win. The reason for this is the following: Let's say there are a multiple of $5$ coins remaining in the stack. If Alice takes $1$, Bob will take $4$, and there will still be a multiple of $5$. If Alice takes $4$, Bob will take $1$, and there will still be a multiple of $5$. This process will continue until you get $0$ coins left. For example, let's say there are $205$ coins. No matter what Alice does, Bob can simply just do the complement. After each of them make a turn, there will always be a multiple of $5$ left. This will continue until there are $5$ coins left, and Bob will end up winning.\n\nAfter some more experimentation, you'll realize that any number that is congruent to $2$ mod $5$ will also work. This is because Bob can do the same strategy, and when there are $2$ coins left, Alice is forced to take $1$ and Bob takes the final coin. For example, let's say there are $72$ coins. If Alice takes $1$, Bob will take $4$. If Alice takes $4$, Bob will take $1$. So after they each make a turn, the number will always be equal to $2$ mod $5$. Eventually, there will be only $2$ coins remaining, and we've established that Alice will simply take $1$ and Bob will take the final coin.\n\nSo we have to find the number of numbers less than or equal to $2024$ that are either congruent to $0$ mod $5$ or $2$ mod $5$. There are $404$ numbers in the first category: $5, 10, 15, \\dots, 2020$. For the second category, there are $405$ numbers. $2, 7, 12, 17, \\dots, 2022$. So the answer is $404 + 405 = \\boxed{809}$.",
+            "Answer": 809
+        },
+        {
+            "Question": "Let $x,y$ and $z$ be positive real numbers that satisfy the following system of equations: \n\\[\\log_2\\left({x \\over yz}\\right) = {1 \\over 2}\\]\n\\[\\log_2\\left({y \\over xz}\\right) = {1 \\over 3}\\]\n\\[\\log_2\\left({z \\over xy}\\right) = {1 \\over 4}\\]\nThen the value of $\\left|\\log_2(x^4y^3z^2)\\right|$ is $\\tfrac{m}{n}$ where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+            "Thought": "Let’s think step by step. Denote $\\log_2(x) = a$, $\\log_2(y) = b$, and $\\log_2(z) = c$.\n\nThen, we have:\n$a-b-c = \\frac{1}{2}$,\n$-a+b-c = \\frac{1}{3}$,\n$-a-b+c = \\frac{1}{4}$.\n\nNow, we can solve to get $a = \\frac{-7}{24}, b = \\frac{-9}{24}, c = \\frac{-5}{12}$.\nPlugging these values in, we obtain $|4a + 3b + 2c|  = \\frac{25}{8} \\implies \\boxed{033}$.",
+            "Answer": 33
+        },
+        {
+            "Question": "A list of positive integers has the following properties:\n\n\\bullet The sum of the items in the list is 30.\n\n\\bullet The unique mode of the list is 9.\n\n\\bullet The median of the list is a positive integer that does not appear in the list itself.\n\nFind the sum of the squares of all the items in the list.",
+            "Thought": "Let’s think step by step. The third condition implies that the list's size must be an even number, as if it were an odd number, the median of the list would surely appear in the list itself. Therefore, we can casework on what even numbers work.\n\nSay the size is 2. Clearly, this doesn't work as the only list would be {9, 9}, which doesn't satisfy condition 1.\n\nIf the size is 4, then we can have two 9s, and a remaining sum of 12. Since the other two values in the list must be distinct, and their sum must equal 30-18=12, we have that the two numbers are in the form a and 12-a. Note that we cannot have both values greater than 9, and we cannot have only one value greater than 9, because this would make the median 9, which violates condition 3. Since the median of the list is a positive integer, this means that the greater of a and 12-a must be an odd number. The only valid solution to this is a=5. Thus, our answer is 5^2 + 7^2 + 9^2 + 9^2 = 236.",
+            "Answer": 236
+        },
+        {
+            "Question": "There exist real numbers $x$ and $y$, both greater than 1, such that $\\log_x\\left(y^x\\right)=\\log_y\\left(x^{4y}\\right)=10$. Find $xy$.",
+            "Thought": "Let’s think step by step. By properties of logarithms, we can simplify the given equation to $x\\log_xy=4y\\log_yx=10$. Let us break this into two separate equations:\n\n$[x\\log_xy=10]$\n$[4y\\log_yx=10]$. We multiply the two equations to get: \n\n$4xy\\left(\\log_xy\\log_yx\\right)=100$. Also by properties of logarithms, we know that $\\log_ab\\cdot\\log_ba=1$; thus, $\\log_xy\\cdot\\log_yx=1$. Therefore, our equation simplifies to:\n\n$4xy=100\\implies xy=\\boxed{25}$.",
+            "Answer": 25
+        },
+        {
+            "Question": "Find the number of triples of nonnegative integers $(a,b,c)$ satisfying $a + b + c = 300$ and \\[a^2b + a^2c + b^2a + b^2c + c^2a + c^2b = 6,000,000.\\]",
+            "Thought": "Let’s think step by step. $ab(a+b)+bc(b+c)+ac(a+c)=300(ab+bc+ac)-3abc=6000000, 100(ab+bc+ac)-abc=2000000$\n\nNote that $(100-a)(100-b)(100-c)=1000000-10000(a+b+c)+100(ab+bc+ac)-abc=0$. Thus, $a/b/c=100$. There are $201$ cases for each but we need to subtract $2$ for $(100,100,100)$. The answer is $\\boxed{601}$.",
+            "Answer": 601
+        },
+        {
+            "Question": "Among the 900 residents of Aimeville, there are 195 who own a diamond ring, 367 who own a set of golf clubs, and 562 who own a garden spade. In addition, each of the 900 residents owns a bag of candy hearts. There are 437 residents who own exactly two of these things, and 234 residents who own exactly three of these things. Find the number of residents of Aimeville who own all four of these things.",
+            "Thought": "Let’s think step by step. Let $w, x, y, z$ denote the number of residents who own 1, 2, 3, and 4 of these items, respectively. We know $w+x+y+z=900$, since there are 900 residents in total. This simplifies to $w+z=229$, since we know $x=437$ and $y=234$. Now, we set an equation for the total number of items. We know there are 195 rings, 367 clubs, 562 spades, and 900 candy hearts. Adding these up, there are 2024 items in total. Thus, $w+2x+3y+4z=2024$ since we are not adding the number of items each group of people contributes, and this must be equal to the total number of items. Plugging in $x$ and $y$, we get $w+4z=448$. Solving $w+z=229$ and $w+4z=448$, we get $z=73$.",
+            "Answer": 73
+        },
+        {
+            "Question": "Eight circles of radius $34$ are sequentially tangent, and two of the circles are tangent to $AB$ and $BC$ of triangle $ABC$, respectively. $2024$ circles of radius $1$ can be arranged in the same manner. The inradius of triangle $ABC$ can be expressed as $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+            "Thought": "Let’s think step by step. Draw an altitude from both end circles of the diagram with the circles of radius one, and call the lengths you get drawing the altitudes of the circles down to $BC$ $a$ and $b$. Now we have the length of side $BC$ of being $(2)(2022)+1+1+a+b$. However, the side $BC$ can also be written as $(6)(68)+34+34+34a+34b$, due to similar triangles from the second diagram. If we set the equations equal, we have $\\frac{1190}{11} = a+b$. Call the radius of the incircle $r$, then we have the side BC to be $r(a+b)$. We find $r$ as $\\frac{4046+\\frac{1190}{11}}{\\frac{1190}{11}}$, which simplifies to $\\frac{10+((34)(11))}{10}$, so we have $\\frac{192}{5}$, which sums to $\\boxed{197}$.",
+            "Answer": 197
+        }
+    ]
+}
