@@ -1,4 +1,5 @@
-catagories\n
-vertical recurrence for expanding computation path\n
-horizontal recurrence for increasing sequential capacity\n
-infinite-depth reasoning\n
+# Catagories
+
+- **Vertical Recurrence** for expanding computation path  
+- **Horizontal Recurrence** for increasing sequential capacity  
+- **Infinite-depth reasoning**
